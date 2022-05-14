@@ -25,6 +25,7 @@ public class Interruptions {
 				
 		return con;
 	}
+	
 
 	//Insert interruptions details to DB table
 	public String createInterruption(String subject,String description,String area,String time,String date,String created_date )
